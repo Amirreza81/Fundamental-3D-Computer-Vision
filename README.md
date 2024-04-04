@@ -1,2 +1,2 @@
 # 3D-Computer-Vision
-Practical solution - will be updated
+Practical solution - will be completed...
