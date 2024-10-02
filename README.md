@@ -21,6 +21,7 @@ This question is divided into two parts:
   - Visualize the magnitude of the Fourier spectrum (shifted for visualization).
 
 ![Input Matrix](images/hw1_matrix.png)
+![Discrete Fourier Transform](images/hw1-outputmatrix.png)
   
 - **Manual Fourier Transform:**
   - Implement the Fourier Transform manually by computing it pixel-by-pixel using the mathematical definition.
