@@ -22,6 +22,7 @@ This question is divided into two parts:
 
 ![Input Matrix](images/hw1_matrix.png)
 ![Discrete Fourier Transform](images/hw1-outputmatrix.png)
+![Discrete Fourier Transform - Gray Mode](images/hw1-graymodematrix.png)
   
 - **Manual Fourier Transform:**
   - Implement the Fourier Transform manually by computing it pixel-by-pixel using the mathematical definition.
