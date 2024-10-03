@@ -4,5 +4,9 @@ The description of each assignment will be completed...
 
 # HW1 - Signal & Image Processing
 
-This assignment contains four questions, each focusing on different image processing tasks such as DFT, Fourier transform implementation, image smoothing, color space conversion, and noise removal.
+This assignment contains four questions, each focusing on different image processing tasks such as:
+> * DFT
+> * Fourier transform implementation
+> * Image smoothing
+> * Color space conversion, and noise removal
 
