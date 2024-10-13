@@ -22,4 +22,5 @@ The description of each assignment will be completed...
     - **HSV and YCbCr**:
         ![cvtcolor](./Signal%20&%20Image%20Processing/third.png)
 
-
+    - **Removing salt and pepper noises**:
+        ![noises](./Signal%20&%20Image%20Processing/noises.png)
