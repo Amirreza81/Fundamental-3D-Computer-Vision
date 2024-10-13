@@ -10,15 +10,16 @@ The description of each assignment will be completed...
     > * Image smoothing
     > * Color space conversion, and noise removal
 
-    - 1. 2D-DFT using np.fft.fft2:
+    - **2D-DFT using np.fft.fft2**:
          ![2D-DFT](./Signal%20&%20Image%20Processing/2ddft.png)
 
-    - 2. Fourier transform implementation from scratch:
+    - **Fourier transform implementation from scratch**:
         ![Fourier Transformation](./Signal%20&%20Image%20Processing/Fourier.png)
 
-    - 3. Smoothing:
+    - **Smoothing**:
         ![Smoothing](./Signal%20&%20Image%20Processing/smoothing.png)
 
-    
+    - **HSV and YCbCr**:
+        ![cvtcolor](./Signal%20&%20Image%20Processing/third.png)
 
 
