@@ -24,3 +24,6 @@ The description of each assignment will be completed...
 
     - **Removing salt and pepper noises**:
         ![noises](./Signal%20&%20Image%20Processing/noises.png)
+
+## Instructor ✍
+[Professor Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
