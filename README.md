@@ -25,7 +25,7 @@ The description of each assignment will be completed...
     - **Removing salt and pepper noises**:
         ![noises](./Signal%20&%20Image%20Processing/noises.png)
 
-* ## HW1 - 3D Geometry
+* ## HW2 - 3D Geometry
 
     This assignment contains four parts:
     > * Implementing camera matrix and camera projection
