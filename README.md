@@ -33,6 +33,8 @@ The description of each assignment will be completed...
     > * Applying the camera matrix to a vector
     > * Changing R and T 
 
+    - **You can see an example of camera matrix**
+
 
 ## Instructor ✍
 [Professor Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
