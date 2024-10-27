@@ -42,8 +42,16 @@ The description of each assignment will be completed...
         ![Projection](./images-readme/hw2_proj.png)
 
     - **And here, we have done 2 sequential rotations**:
-    
+
         ![Rotation](./images-readme/hw2_rot.png)
+
+
+* ## HW3 - Cameras and Projections
+
+    This assignment contains three parts:
+    > * Understanding Rotations in-depth!
+    > * Estimating Camera Pose from 2D-3D correspondences
+    > * Image Mosaicing
 
 
 ## Instructor ✍
