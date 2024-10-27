@@ -33,13 +33,16 @@ The description of each assignment will be completed...
     > * Applying the camera matrix to a vector
     > * Changing R and T 
 
-    - **You can see an example of camera matrix**
+    - **You can see an example of camera matrix**:
+
         ![Camera Matrix](./images-readme/hw2_cameramatrix.png)
 
     - **This is the result of the projection done in the notebook**:
+
         ![Projection](./images-readme/hw2_proj.png)
 
     - **And here, we have done 2 sequential rotations**:
+    
         ![Rotation](./images-readme/hw2_rot.png)
 
 
