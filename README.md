@@ -66,6 +66,17 @@ The description of each assignment will be completed...
         Camera Pose and 3D to 2D Projection:
         ![Camera_Pose](/images-readme/hw3_pos.png)
 
+    - **Image Mosaicing**:
+        The task of image mosaicing is something we use everyday to create panoramas. In this question, we want to create a panorama from a set of images. We will use the homography matrix to do so.
+
+        ![first](./images-readme/hw3-1.png)
+        ![second](./images-readme/hw3-2.png)
+        ![third](./images-readme/hw3-3.png)
+
+        ![fourth](./images-readme/hw3-4.png)
+        ![fifth](./images-readme/hw3_5.png)
+        ![sixth](./images-readme/hw3_final.png)
+
 
 
 ## Instructor ✍
