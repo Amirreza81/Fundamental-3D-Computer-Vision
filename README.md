@@ -53,6 +53,13 @@ The description of each assignment will be completed...
     > * Estimating Camera Pose from 2D-3D correspondences
     > * Image Mosaicing
 
+    - **Understanding Rotations in-depth!**:
+        In this question, we want to visualize some rotations in 3D Space. we will get to understand what are quaternions, and rotation matrices. We will also see how to convert between these representations.
+
+        Rotation Visualization of Quaternion:
+        ![Visualization](./images-readme/hw3_vis.png)
+
+
 
 ## Instructor ✍
 [Professor Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
