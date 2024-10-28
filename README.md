@@ -75,6 +75,8 @@ The description of each assignment will be completed...
 
         ![fourth](./images-readme/hw3-4.png)
         ![fifth](./images-readme/hw3_5.png)
+ 
+      The final result:
         ![sixth](./images-readme/hw3_final.png)
 
 
