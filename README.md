@@ -80,6 +80,11 @@ The description of each assignment will be completed...
       
         ![sixth](./images-readme/hw3_final.png)
 
+* ## HW4 - 3D Reconstruction from 2 Views
+
+    This assignment contains two parts:
+    > * Implementing the eight-point algorithm.
+    > * Implementing the normalized eight-point algorithm.
 
 
 ## Instructor ✍
