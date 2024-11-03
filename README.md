@@ -87,11 +87,13 @@ The description of each assignment will be completed...
     > * Implementing the normalized eight-point algorithm.
 
     Input images:
-    
+
     ![one](./3D%20Reconstruction%20from%202%20Views/im1.jpg)
     ![two](./3D%20Reconstruction%20from%202%20Views/im2.jpg)
 
+    Result:
 
+    ![res](./3D%20Reconstruction%20from%202%20Views/image.png)
 
 ## Instructor ✍
 [Professor Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
