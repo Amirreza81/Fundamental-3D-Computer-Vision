@@ -24,6 +24,9 @@ Assignments and solutions for the Fundamental 3D Computer Vision (CE-344) course
     - **Removing salt and pepper noises**:
         ![noises](./Signal%20&%20Image%20Processing/noises.png)
 
+
+    For reading the notebook you can see (here)[https://github.com/Amirreza81/Fundamental-3D-Computer-Vision/blob/main/Signal%20%26%20Image%20Processing/HW1.ipynb].
+
 * ## HW2 - 3D Geometry
 
     This assignment contains four parts:
