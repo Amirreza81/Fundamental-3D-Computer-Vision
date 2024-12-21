@@ -1,4 +1,4 @@
-# 3D Computer Vision
+# Fundamental 3D Computer Vision
 Assignments and solutions for the Fundamental 3D Computer Vision (CE-344) course at **Sharif University of Technology**
 
 * ## HW1 - Signal & Image Processing
