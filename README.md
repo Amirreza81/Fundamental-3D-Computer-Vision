@@ -47,6 +47,8 @@ Assignments and solutions for the Fundamental 3D Computer Vision (CE-344) course
 
         ![Rotation](./images-readme/hw2_rot.png)
 
+    For reading the notebook you can see [here](https://github.com/Amirreza81/Fundamental-3D-Computer-Vision/blob/main/3D-Geometry/HW2.ipynb).
+
 
 * ## HW3 - Cameras and Projections
 
