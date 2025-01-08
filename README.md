@@ -101,3 +101,4 @@ Assignments and solutions for the Fundamental 3D Computer Vision (CE-344) course
 
 ## Instructor ✍
 [Professor Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
+[IPL](http://ipl.ce.sharif.edu/)
